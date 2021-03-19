@@ -6,7 +6,7 @@ dataSources:
     name: SushiDistributor
     network: ropsten
     source:
-      address: "0x84D1F7202e0E7DAc211617017cA72a2cB5E2B955"
+      address: '0x84d1f7202e0e7dac211617017ca72a2cb5e2b955'
       abi: SushiDistributor
       startBlock: 9667012
     mapping:

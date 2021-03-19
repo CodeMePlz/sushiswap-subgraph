@@ -6,11 +6,11 @@ schema:
 dataSources:
   - kind: ethereum/contract
     name: Maker
-    network: mainnet
+    network: ropsten
     source:
-      address: '0x795065dcc9f64b5614c407a6efdc400da6221fb0'
+      address: '0x1b9d177ccdea3c79b6c8f40761fc8dc9d0500eaa'
       abi: Pair
-      startBlock: 10833263
+      startBlock: 9731346
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
